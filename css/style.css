@@ -404,15 +404,18 @@ body {
 
 /* start style cont-8 */
 .cont-8 .row div h4 {
-    font-size: 2.1rem;
+    font-size: 1.9rem;
     
 }
 
-@media (min-width:767px) {
+
+@media (min-width:1200px) {
     .cont-8 .row div h4 {
-        font-size: 2.3rem;
+        font-size: 4rem;
     }
 }
+
+
 
 @media (min-width:992px) {
     .cont-8 .row div h4 {
@@ -420,9 +423,9 @@ body {
     }
 }
 
-@media (min-width:1200px) {
+@media (min-width:767px) {
     .cont-8 .row div h4 {
-        font-size: 4rem;
+        font-size: 2.3rem;
     }
 }
 
