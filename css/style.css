@@ -454,8 +454,29 @@ body {
 
 /* start style footer */
 .footer .row div p{
+    font-size: 1.1rem;
+}
+
+
+@media (min-width:600px) {
+    .footer .row div p{
     font-size: 1.5rem;
 }
+}
+
+@media (min-width:992px) {
+    .footer .row div p{
+    font-size: 1.1rem;
+}
+}
+
+@media (min-width:1190px) {
+    .footer .row div p{
+    font-size: 1.4rem;
+}
+}
+
+
 
 .footer .row div p span {
     color:#af7737;
