@@ -335,9 +335,10 @@ body {
     font-size: 4rem;
 }
 
-@media (max-width:500px) {
+
+@media (min-width:1200px) {
     .head-cont-7 h3 {
-    font-size: 2.5rem;
+    font-size: 5rem;
 }
 }
 
@@ -347,9 +348,10 @@ body {
 }
 }
 
-@media (min-width:1200px) {
+
+@media (max-width:500px) {
     .head-cont-7 h3 {
-    font-size: 5rem;
+    font-size: 2.4rem;
 }
 }
 
